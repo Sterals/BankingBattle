@@ -1,0 +1,1 @@
+web: python banking_battle/manage.py
