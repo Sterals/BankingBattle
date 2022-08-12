@@ -1,1 +1,1 @@
-web: gunicorn banking_battle.wsgi
+web: gunicorn banking_battle/banking_battle.wsgi
