@@ -1,1 +1,1 @@
-web: python banking_battle/manage.py
+web: gunicorn banking_battle.wsgi
